@@ -77,4 +77,3 @@ diff = (*stack)->n - (*stack)->prev->n;
 free((*stack)->prev);
 (*stack)->prev = NULL;
 }
-jjjj

@@ -74,4 +74,3 @@ return (0);
 get_func(opcode, data, line_num, format);
 return (format);
 }
-jjjj

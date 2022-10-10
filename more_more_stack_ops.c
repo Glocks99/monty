@@ -72,4 +72,3 @@ bottom->prev->next = NULL;
 bottom->prev = NULL;
 *stack = bottom;
 }
-jjjj

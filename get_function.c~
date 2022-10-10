@@ -21,4 +21,3 @@ void *get_func(char *op, char *data, int line_num)
 	return (funcs_list[i].f);
     }
 }
-jjjj

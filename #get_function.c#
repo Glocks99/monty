@@ -122,4 +122,3 @@ head = head->next;
 free(temp);
 }
 }
-jjj

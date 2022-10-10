@@ -94,4 +94,3 @@ exit(EXIT_FAILURE);
 }
 printf("%c\n", (char)(*stack)->n);
 }
-jjjj

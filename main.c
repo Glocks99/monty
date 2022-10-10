@@ -18,4 +18,3 @@ open_file(argv[1]);
 free_nodes();
 return (0);
 }
-jjj

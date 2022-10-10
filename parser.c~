@@ -43,4 +43,3 @@ void parse_line(char *line, int line_num)
     }
   get_func(opcode, data, line_num);
 }
-jjj

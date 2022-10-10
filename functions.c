@@ -80,4 +80,3 @@ if (*stack != NULL)
 (*stack)->prev = NULL;
 free(temp);
 }
-jjj
