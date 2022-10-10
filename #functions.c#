@@ -114,3 +114,4 @@ temp->next = *stack;
 (*stack)->prev = temp;
 temp->prev = NULL;
 *stack = 
+jjj
